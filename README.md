@@ -1,4 +1,4 @@
-# Archie Neko Official Website
+# Official Website
 
 ## Getting started
 
